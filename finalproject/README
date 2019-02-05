@@ -1,0 +1,8 @@
+This program implements Rheinard color mapping from one images to another.
+This program is run in the form ./rheinard imagename1 imagename2.
+In this form if imagename1 and imagename2 are the names of valid images
+in the directory then the look and feel of imagename2 will be mapped on to
+imagename1 and display in a window.
+
+If one wishes to save the image then one must press 'w' and then enter a
+valid image name into the command that launched this program.
